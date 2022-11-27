@@ -13,6 +13,6 @@ Pygame installation
 <h3>Working </h3>
 The typing speed updates as text is typed and with time.
 
-![](https://github.com/SiriNamala/TypingTest/blob/main/typingtestgif.gif) 
+![](https://github.com/OpenGenus/typing-speed-python/blob/main/demo/typingtestgif.gif) 
 
-<img src="https://github.com/SiriNamala/TypingTest/blob/main/sstypetest.jpeg" height="350" width ="700">
+<img src="https://github.com/OpenGenus/typing-speed-python/blob/main/demo/sstypetest.jpeg" height="350" width ="700">
